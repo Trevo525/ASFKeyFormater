@@ -1,6 +1,3 @@
-# ASFKeyFormater
-Format's Keys in the format "!r {account} {list,of,keys,seperated,by,commas}"
+This is something I made when I was trying to learn C#. It was more of a learning excersize than anything useful. I am not 100% sure, but this might actually be the first application I made outside of `hello-world`, or some random code that was just playing and never was saved.
 
-This program is for my personal use but you may find use out of it.
-It is for use with ArchiSteamFarm to format a bunch of Steam Keys to output 
-them in the format "!r {account} {list,of,keys,seperated,by,commas}"
+Either way, this is useless to me now. I use [this](https://github.com/umaim/SKE) now.
